@@ -9,7 +9,7 @@ We examined immunity hubs in human pre-immunotherapy lung cancer specimens using
 
 # Grid windows
 
-Grid_windows.R
+grid_windows.R
 
 A computationally fast window approach was used to explore the local tissue microenvironment, where cell phenotypes were enumerated within a 50 x 50μm window.
 
